@@ -1,0 +1,17 @@
+{
+  "browser_data":
+    {
+      "app_url": "https://rahulshettyacademy.com/seleniumPractise",
+      "browser": "Chrome",
+      "implicit_wait_time": 60
+    },
+    "path_data":
+    {
+      "browser_driver_path": "\\browserdrivers",
+      "screenshot_path": "\\screenshots",
+      "testdata_path": "\\testdata",
+      "pages_path": "\\pages",
+      "locators_path": "\\locators",
+      "utilities_path": "\\utilities"
+    }
+}
