@@ -6,6 +6,7 @@ class Locators(object):
     add_to_cart = "//button[contains(text(),'ADD TO CART')]"
     veg_cart_btn = "// img[ @ alt = 'Cart']"
 
+
     # Proceed to Check Out Page
     proceed_to_checkout_btn = "//button[contains(text(),'PROCEED TO CHECKOUT')]"
 
